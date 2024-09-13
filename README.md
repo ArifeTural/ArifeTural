@@ -8,4 +8,5 @@
 
 ## Contact me : 
 [![Gmail Badge](https://img.shields.io/badge/-arifegv@gmail.com-pink?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:arifegv@gmail.com)](arifegv@gmail.com)
-[![Linkedin Badge](https://www.linkedin.com/in/arife-tural-2124a2143/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=pink&link=https://www.linkedin.com/in/arife-tural-2124a2143/)](https://www.linkedin.com/in/arife-tural-2124a2143/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arife-tural-2124a2143/)
+
