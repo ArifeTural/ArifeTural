@@ -26,6 +26,9 @@
 <a href="https://github.com/ArifeTural?tab=repositories&q=&type=&language=html&sort="> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> 
 </a>
+<a href="https://github.com/ArifeTural?tab=repositories&q=&type=&language=csharp&sort=" class="m-2"> 
+        <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg">
+    </a>
 
 
 
