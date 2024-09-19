@@ -28,6 +28,7 @@
 <a href="https://github.com/ArifeTural?tab=repositories&q=&type=&language=python&sort="> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> 
 </a>
+
 <a href="https://slack.com/"> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/slack.svg"> 
 </a>
@@ -35,12 +36,15 @@
 <a href="https://github.com/ArifeTural?tab=repositories&q=&type=&language=reactjs&sort="> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> 
 </a>
+
 <a href="https://github.com/ArifeTural?tab=repositories&q=&type=&language=javascript&sort="> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> 
 </a>
+
 <a href="https://github.com/ArifeTural?tab=repositories&q=&type=&language=css&sort="> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> 
 </a>
+
 <a href="https://code.visualstudio.com/"> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vscode.svg"> 
 </a>
@@ -48,9 +52,11 @@
 <a href="https://github.com/ArifeTural?tab=repositories&q=&type=&language=html&sort="> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> 
 </a>
+
 <a href="https://github.com/ArifeTural?tab=repositories&q=&type=&language=bootstrap&sort="> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg"> 
 </a>
+
 <a href="https://app.netlify.com/teams/ArifeTural/sites"> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/netlify.svg"> 
 </a>
@@ -58,9 +64,11 @@
 <a href="https://github.com/ArifeTural?tab=repositories&q=&type=&language=sass&sort="> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg"> 
 </a>
+
 <a href="https://github.com/ArifeTural?tab=repositories&q=&type=&language=tailwind&sort="> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg"> 
 </a>
+
 <a href="https://github.com/ArifeTural"> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"> 
 </a>
