@@ -70,6 +70,12 @@
 </a>
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,firebase,git,github,html,js,materialui,nextjs,py,react,redux,sass,tailwind,vscode" />
+  </a>
+</p>
+
 
 
 
