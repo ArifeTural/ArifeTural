@@ -43,9 +43,21 @@
 <a href="https://github.com/ArifeTural?tab=repositories&q=&type=&language=bootstrap&sort="> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg"> 
 </a>
+<a href="https://app.netlify.com/teams/ArifeTural/sites"> 
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/netlify.svg"> 
+</a>
+
 <a href="https://github.com/ArifeTural?tab=repositories&q=&type=&language=sass&sort="> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg"> 
 </a>
+<a href="https://github.com/ArifeTural?tab=repositories&q=&type=&language=tailwind&sort="> 
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg"> 
+</a>
+<a href="https://github.com/ArifeTural"> 
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"> 
+</a>
+
+
 
 
 
