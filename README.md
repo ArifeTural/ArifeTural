@@ -68,13 +68,7 @@
 <a href="https://github.com/ArifeTural"> 
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"> 
 </a>
-<a href="https://slack.com/"> 
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/slack.svg"> 
-</a>
 
-<a href="https://code.visualstudio.com/"> 
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vscode.svg"> 
-</a>
 
 
 
