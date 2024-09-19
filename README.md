@@ -85,6 +85,7 @@
 
 
 
+
 ## Contact me : 
 [![Gmail Badge](https://img.shields.io/badge/-arifegv@gmail.com-pink?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:arifegv@gmail.com)](arifegv@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arife-tural-2124a2143/)
